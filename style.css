@@ -113,3 +113,9 @@ footer p {
 footer p a {
     font-weight: 500;
 }
+
+.artista1 {
+ max-width: 600px; /* Ajusta el tamaño máximo */
+    height: auto; /* Mantiene la relación de aspecto */
+    display: block; /* Para centrar la imagen si es necesario */
+    }
