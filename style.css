@@ -17,6 +17,11 @@ body {
     color: rgba(255, 255, 255, 0.75);
 }
 
+.bold {
+    font-weight: bold; /* Aplica negrita */
+     color: #DFA84D
+}
+
 a {
     color: rgba(255, 255, 255, 0.5);
     text-decoration: none;
