@@ -1,0 +1,1 @@
+# pcomp2024b_p02_wearables_g-ngora_marsino_arenas_vial_tamara_vargas
